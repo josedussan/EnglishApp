@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: presenteSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: You are studying English.
+    questionImage: {fileID: -969821058, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: you are studying english
+    answeralternative1: you are storing english
+    answeralternative2: you are student english
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I am listening to music.
+    questionImage: {fileID: -856420592, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: i am listening to music
+    answeralternative1: i am listening into music
+    answeralternative2: i am pleasing into music
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Jake is having a shower.
+    questionImage: {fileID: -1085893441, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: jake is having a shower
+    answeralternative1: jack is having a shower
+    answeralternative2: drake is having a shower
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: You are driving too fast!
+    questionImage: {fileID: -1299090906, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: you are driving to fast
+    answeralternative1: you are driving too fast
+    answeralternative2: you're driving too fast
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She is reading a good novel.
+    questionImage: {fileID: 444995988, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: she is reading a novel
+    answeralternative1: she is reading a noble
+    answeralternative2: she is reading a nobel
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The Elephant is playing in the water.
+    questionImage: {fileID: -931535805, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: the elephant is playing in the water
+    answeralternative1: the elephant is playing in the world
+    answeralternative2: the elephant is playing in the war

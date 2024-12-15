@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: alphabetSpeak
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -800232159, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: f
+    answeralternative1: eff
+    answeralternative2: hall
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: esta es la tuya
+    questionImage: {fileID: 908333950, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: p
+    answeralternative1: b
+    answeralternative2: be
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 244704773, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: u
+    answeralternative1: you
+    answeralternative2: u
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1516682725, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: g
+    answeralternative1: ji
+    answeralternative2: gee
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 7848424, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: n
+    answeralternative1: and
+    answeralternative2: end
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1206430842, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: t
+    answeralternative1: d
+    answeralternative2: be
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -988599773, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: c
+    answeralternative1: si
+    answeralternative2: see
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 482918488, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: i
+    answeralternative1: aight
+    answeralternative2: hi
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 623907292, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: d
+    answeralternative1: dee
+    answeralternative2: thee
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 154500145, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: q
+    answeralternative1: you
+    answeralternative2: view
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -451466254, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: w
+    answeralternative1: w
+    answeralternative2: the blue
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -931977181, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: a
+    answeralternative1: hey
+    answeralternative2: eh
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -75361075, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: j
+    answeralternative1: jay
+    answeralternative2: j
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 974254081, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: m
+    answeralternative1: am
+    answeralternative2: aim
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1358318897, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: v
+    answeralternative1: b
+    answeralternative2: be
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -377743530, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: k
+    answeralternative1: ok
+    answeralternative2: ok
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1154153819, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: b
+    answeralternative1: be
+    answeralternative2: bee
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1353304022, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: al
+    answeralternative1: ale
+    answeralternative2: el
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1972557457, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: r
+    answeralternative1: our
+    answeralternative2: or
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1035071554, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: x
+    answeralternative1: axe
+    answeralternative2: ex
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1364444389, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: o
+    answeralternative1: oh
+    answeralternative2: oh
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1728691089, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: c
+    answeralternative1: si
+    answeralternative2: see
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1320177009, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: h
+    answeralternative1: age
+    answeralternative2: aged
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1724499124, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: s
+    answeralternative1: yes
+    answeralternative2: ace
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 926928825, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: y
+    answeralternative1: white
+    answeralternative2: what
+  - title: Pronounce this letter
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 2116402031, guid: 7df4dd2e078e45a439d865430029c5b4, type: 3}
+    answer: e
+    answeralternative1: ll
+    answeralternative2: e

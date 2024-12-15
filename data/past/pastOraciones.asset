@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: pastOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: He closed the window.
+    cantidadPalabras: 4
+  - answer: They did not lose the keys.
+    cantidadPalabras: 6
+  - answer: When did they arrive?
+    cantidadPalabras: 4
+  - answer: Alice brushed her teeth.
+    cantidadPalabras: 4
+  - answer: Mike didn't drink all the juice.
+    cantidadPalabras: 6
+  - answer: Did Sam and Ernest watch that movie?
+    cantidadPalabras: 7
+  - answer: Our team won the competition.
+    cantidadPalabras: 5
+  - answer: Alice did not brush her teeth.
+    cantidadPalabras: 6
+  - answer: He didn't do his homework.
+    cantidadPalabras: 5
+  - answer: Did the package arrive on time?
+    cantidadPalabras: 6
+  - answer: Why did she leave?
+    cantidadPalabras: 4
+  - answer: They lost the keys.
+    cantidadPalabras: 4

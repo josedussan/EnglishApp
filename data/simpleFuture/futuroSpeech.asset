@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: futuroSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I will always love you.
+    questionImage: {fileID: 1121360690, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: i will always love you
+    answeralternative1: i will always love you
+    answeralternative2: i will always love you
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Will it be windy tomorrow?
+    questionImage: {fileID: -1270136885, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: will it be windy tomorrow
+    answeralternative1: will be windy tomorrow
+    answeralternative2: will it be windy tomorrow
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I will talk to you later.
+    questionImage: {fileID: 1939763583, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: i will talk to you later
+    answeralternative1: i will talked to you later
+    answeralternative2: i will talk to you later
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The ending will shock you.
+    questionImage: {fileID: -800597380, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: the ending will shock you
+    answeralternative1: the ending wheel shock you
+    answeralternative2: the ending really shock you
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Will you get the door, please?
+    questionImage: {fileID: 1729706916, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: will you get the door please
+    answeralternative1: will you get that door please
+    answeralternative2: will you get the tour please

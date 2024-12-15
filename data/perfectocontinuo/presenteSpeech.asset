@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: presenteSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: It has been snowing?
+    questionImage: {fileID: -1350460129, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: it has been snowing
+    answeralternative1: it has being snowing
+    answeralternative2: it has been a snowing
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: What have you been doing?
+    questionImage: {fileID: 1762464227, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: what have you been doing
+    answeralternative1: what half you been doing
+    answeralternative2: what have you've been doing
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She has been living here all her life.
+    questionImage: {fileID: -630366130, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: she has been living here all her life
+    answeralternative1: she has been leaving here all her life
+    answeralternative2: she has been living here on her life
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I have been working here for a long time.
+    questionImage: {fileID: -422908342, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: i have been working here for a long time
+    answeralternative1: i have being working here for a long time
+    answeralternative2: i have been working here for a long time
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They have been thinking about it for a long time.
+    questionImage: {fileID: -1878603650, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: they have been thinking about it for a long time
+    answeralternative1: they have being thinking about it for a long time
+    answeralternative2: they have been thinking about it for a long time
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She has not been working.
+    questionImage: {fileID: -1508597630, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: she has not been working
+    answeralternative1: she has not being working
+    answeralternative2: she has not been working

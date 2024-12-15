@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: inmediateSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: It is going to rain soon.
+    questionImage: {fileID: 728663434, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: it is going to rain soon
+    answeralternative1: it is going to rain zoom
+    answeralternative2: it is going to rain soon
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She is going to watch a movie.
+    questionImage: {fileID: 584696120, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: she is going to watch a movie
+    answeralternative1: she's going to watch a movie
+    answeralternative2: she is going to watch a movie
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He is going to practice soccer.
+    questionImage: {fileID: 2128051009, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: he is going to practice soccer
+    answeralternative1: she is going to practice soccer
+    answeralternative2: he is going to practice soccer
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The children are going to make a cake.
+    questionImage: {fileID: -951363379, guid: 7a3f326824435864087f376d9a9753f6, type: 3}
+    answer: the children are going to make a cake
+    answeralternative1: the children's are going to make a cake
+    answeralternative2: the children are in are going to make a cake

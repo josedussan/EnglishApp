@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: oracionesPronouns
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: I need my doctor.
+    cantidadPalabras: 4
+  - answer: Mom please let us play.
+    cantidadPalabras: 5
+  - answer: I miss you.
+    cantidadPalabras: 3
+  - answer: I hate my camera.
+    cantidadPalabras: 4
+  - answer: The car is for us.
+    cantidadPalabras: 5
+  - answer: She hurt herselft.
+    cantidadPalabras: 3
+  - answer: We made it ourselves.
+    cantidadPalabras: 4
+  - answer: The book is mine.
+    cantidadPalabras: 4
+  - answer: It is november.
+    cantidadPalabras: 3
+  - answer: That house is going to be ours.
+    cantidadPalabras: 7

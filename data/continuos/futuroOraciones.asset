@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: futuroOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: By christmas i will be skiing like a pro.
+    cantidadPalabras: 9
+  - answer: I will be eating with Jane this evening.
+    cantidadPalabras: 8
+  - answer: In an hour i will still be ironing my clothes.
+    cantidadPalabras: 10
+  - answer: When he is in Australia he will be staying with friends.
+    cantidadPalabras: 11
+  - answer: It will be snowing.
+    cantidadPalabras: 4
+  - answer: Will you be working late tonight?
+    cantidadPalabras: 6
+  - answer: This time tomorrow, we will be flying to Paris.
+    cantidadPalabras: 9
+  - answer: I will be waiting for you at the airport.
+    cantidadPalabras: 9

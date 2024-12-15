@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: tiempoSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: It will be important to me.
+    questionImage: {fileID: 278118871, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: it will be important to me
+    answeralternative1: at will be important to me
+    answeralternative2: app will be important to me
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He is your father.
+    questionImage: {fileID: -926439189, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: he is your father
+    answeralternative1: p is your father
+    answeralternative2: pee is your father
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: You were very smart.
+    questionImage: {fileID: 1068392323, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: you were very smart
+    answeralternative1: you are very smart
+    answeralternative2: you wear very smart
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She will be a nurse.
+    questionImage: {fileID: -1264418373, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: she will be a nurse
+    answeralternative1: she will be a yours
+    answeralternative2: she will be on earth
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They were my cousins.
+    questionImage: {fileID: 357463254, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: they were my cousins
+    answeralternative1: they were my cousin
+    answeralternative2: they were my cousin's
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I am a good student.
+    questionImage: {fileID: 1030282680, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: i am a good student
+    answeralternative1: i am good student
+    answeralternative2: i am a good student
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He was your teacher.
+    questionImage: {fileID: 788901081, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: he was your teacher
+    answeralternative1: he lost your teacher
+    answeralternative2: key wash your teacher
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: You will be my best friend.
+    questionImage: {fileID: 533643655, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: you will be my best friend
+    answeralternative1: you will be in my best friend
+    answeralternative2: you will be my bestfriend
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: It was cold.
+    questionImage: {fileID: -1758098621, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: i was cold
+    answeralternative1: i was called
+    answeralternative2: it was gold
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: We will be family.
+    questionImage: {fileID: -1599835508, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: we will be family
+    answeralternative1: we will be familiar
+    answeralternative2: we will be family
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Maria was a lawyer.
+    questionImage: {fileID: -48671771, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: maria was a lawyer
+    answeralternative1: maria lost a lawyer
+    answeralternative2: "mar\xEDa was a lawyer"
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They will be my brothers.
+    questionImage: {fileID: 1376264504, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: they will be my brothers
+    answeralternative1: they will be in my brother
+    answeralternative2: they will be my brother's
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The dog was here.
+    questionImage: {fileID: 200329755, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: the dog was here
+    answeralternative1: the dog walks here
+    answeralternative2: the dog walk here
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Pedro will be your new teacher.
+    questionImage: {fileID: -1675716824, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: pedro will be your new teacher
+    answeralternative1: pedro we'll be your new teacher
+    answeralternative2: pedro will be your new picture
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: We were family.
+    questionImage: {fileID: -1973119752, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: we were family
+    answeralternative1: we are family
+    answeralternative2: we were a family
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I will be a Doctor.
+    questionImage: {fileID: -1057636197, guid: 7aa3ea53fecb66648827998865fc8ce5, type: 3}
+    answer: i will be a doctor
+    answeralternative1: i will be adapter
+    answeralternative2: i will be at doctor

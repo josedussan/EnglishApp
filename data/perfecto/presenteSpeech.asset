@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: presenteSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I have talked to the Doctor.
+    questionImage: {fileID: 652307952, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: i have talked to the doctor
+    answeralternative1: i have talk to the doctor
+    answeralternative2: i have talked to their doctor
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The baby has woken up.
+    questionImage: {fileID: -920374086, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: the baby has woken up
+    answeralternative1: the baby has walking up
+    answeralternative2: the baby has waking up
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Have you two met?
+    questionImage: {fileID: -581985789, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: have you two met
+    answeralternative1: have you to meet
+    answeralternative2: have you to met
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: What have you said?
+    questionImage: {fileID: 180437741, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: what have you said
+    answeralternative1: what half you said
+    answeralternative2: what have you set
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She has changed her mind.
+    questionImage: {fileID: 658646725, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: she has changed her mind
+    answeralternative1: she has to change her mind
+    answeralternative2: she have changed her mind

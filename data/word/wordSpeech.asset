@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: wordSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this word
+    tipo: 0
+    sentence: For
+    questionImage: {fileID: -1882307250, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: for
+    answeralternative1: far
+    answeralternative2: how far
+  - title: Pronounce this word
+    tipo: 0
+    sentence: With
+    questionImage: {fileID: -2133825196, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: with
+    answeralternative1: weave
+    answeralternative2: wait
+  - title: Pronounce this word
+    tipo: 0
+    sentence: At
+    questionImage: {fileID: -242387087, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: at
+    answeralternative1: art
+    answeralternative2: '@'
+  - title: Pronounce this word
+    tipo: 0
+    sentence: To
+    questionImage: {fileID: 1590919592, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: to
+    answeralternative1: two
+    answeralternative2: 2
+  - title: Pronounce this word
+    tipo: 0
+    sentence: And
+    questionImage: {fileID: 1833011487, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: and
+    answeralternative1: end
+    answeralternative2: and
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Not
+    questionImage: {fileID: -570854466, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: not
+    answeralternative1: knot
+    answeralternative2: note
+  - title: Pronounce this word
+    tipo: 0
+    sentence: As
+    questionImage: {fileID: -389853054, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: ass
+    answeralternative1: as
+    answeralternative2: us
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Get
+    questionImage: {fileID: 1260381848, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: get
+    answeralternative1: get
+    answeralternative2: get
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Look
+    questionImage: {fileID: -845210637, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: look
+    answeralternative1: luke
+    answeralternative2: look
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Can
+    questionImage: {fileID: 466349036, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: can
+    answeralternative1: ken
+    answeralternative2: 10
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Will
+    questionImage: {fileID: 1015513147, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: will
+    answeralternative1: wheel
+    answeralternative2: we'll
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Make
+    questionImage: {fileID: 2028133725, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: make
+    answeralternative1: made
+    answeralternative2: make
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Like
+    questionImage: {fileID: 1133719011, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: like
+    answeralternative1: lite
+    answeralternative2: like
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Think
+    questionImage: {fileID: -522674103, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: think
+    answeralternative1: pink
+    answeralternative2: thank
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Go
+    questionImage: {fileID: -1377142696, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: go
+    answeralternative1: goal
+    answeralternative2: gold
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Use
+    questionImage: {fileID: 1712624966, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: use
+    answeralternative1: used
+    answeralternative2: juice
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Work
+    questionImage: {fileID: -766676731, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: work
+    answeralternative1: work
+    answeralternative2: work
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Person
+    questionImage: {fileID: 1605525384, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: person
+    answeralternative1: carson
+    answeralternative2: personal
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Way
+    questionImage: {fileID: 559920429, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: way
+    answeralternative1: wait
+    answeralternative2: weigh
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Thing
+    questionImage: {fileID: 1739974886, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: thing
+    answeralternative1: sing
+    answeralternative2: think
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Time
+    questionImage: {fileID: 521699946, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: time
+    answeralternative1: thyme
+    answeralternative2: sign
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Year
+    questionImage: {fileID: -121690257, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: year
+    answeralternative1: yeah
+    answeralternative2: here
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Day
+    questionImage: {fileID: -1771944387, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: day
+    answeralternative1: they
+    answeralternative2: bay
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Man
+    questionImage: {fileID: 1729093383, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: man
+    answeralternative1: men
+    answeralternative2: mend
+  - title: Pronounce this word
+    tipo: 0
+    sentence: World
+    questionImage: {fileID: 1960803325, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: world
+    answeralternative1: word
+    answeralternative2: world
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Part
+    questionImage: {fileID: 888577430, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: part
+    answeralternative1: fart
+    answeralternative2: bart
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Guys
+    questionImage: {fileID: -1286959052, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: guys
+    answeralternative1: dice
+    answeralternative2: dies
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Week
+    questionImage: {fileID: 402298596, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: week
+    answeralternative1: weak
+    answeralternative2: wake
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Life
+    questionImage: {fileID: -382335606, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: live
+    answeralternative1: life
+    answeralternative2: life
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Child
+    questionImage: {fileID: -807709470, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: child
+    answeralternative1: child
+    answeralternative2: child
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Place
+    questionImage: {fileID: -1454004782, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: place
+    answeralternative1: blaze
+    answeralternative2: play
+  - title: Pronounce this word
+    tipo: 0
+    sentence: Case
+    questionImage: {fileID: -627440404, guid: 795d8847c808162449c1e90d27782128, type: 3}
+    answer: case
+    answeralternative1: chase
+    answeralternative2: kay's

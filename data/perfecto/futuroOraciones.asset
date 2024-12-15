@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: futuroOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: The party will have already started.
+    cantidadPalabras: 6
+  - answer: The plane will have already taken off.
+    cantidadPalabras: 7
+  - answer: The police will not have solved the crime.
+    cantidadPalabras: 8
+  - answer: Will you have learned Spanish by the end of the year?
+    cantidadPalabras: 11
+  - answer: She will have received the package by now.
+    cantidadPalabras: 8
+  - answer: Will the flight have been delayed?
+    cantidadPalabras: 6
+  - answer: It will not have gotten dark by then.
+    cantidadPalabras: 8
+  - answer: Sally will not have left home.
+    cantidadPalabras: 6

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: presenteSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: You do not think.
+    questionImage: {fileID: 1905612480, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: you do not think
+    answeralternative1: you do not thing
+    answeralternative2: you do not think
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She only eats fish.
+    questionImage: {fileID: -1324986215, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: she only eats fish
+    answeralternative1: she only eat fish
+    answeralternative2: she only eats fish
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Her mother is British.
+    questionImage: {fileID: 1029267207, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: her mother is british
+    answeralternative1: her mother is british
+    answeralternative2: her mother is british
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She does not think.
+    questionImage: {fileID: -160977999, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: she does not think
+    answeralternative1: she does not thing
+    answeralternative2: she does not think
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Luis drinks to much coffee.
+    questionImage: {fileID: 1394740166, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: luis drinks too much coffee
+    answeralternative1: louis drinks too much coffee
+    answeralternative2: louise drinks too much coffee
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Maria cries every time.
+    questionImage: {fileID: 2048289064, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: maria cries every time
+    answeralternative1: maria cries everytime
+    answeralternative2: maria christ every time
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: We pay the rent.
+    questionImage: {fileID: -2110965607, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: we pay the rent
+    answeralternative1: we paid the rent
+    answeralternative2: we play the rent
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Tomorrow is my birthday.
+    questionImage: {fileID: -773998335, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: tomorrow is my birhtday
+    answeralternative1: tomorrow is my birhtday
+    answeralternative2: tomorrow is my birhtday
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He drinks coffee every night.
+    questionImage: {fileID: 214042227, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: he drinks coffee every night
+    answeralternative1: tea drinks coffee every night
+    answeralternative2: he drink coffee every night
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They do not drink too much tea.
+    questionImage: {fileID: -695108405, guid: 673b769dec7f6ef4d8427d8e59850a27, type: 3}
+    answer: they do not drink too much tea
+    answeralternative1: they do not drink too much teeth
+    answeralternative2: they do not drink too much tea

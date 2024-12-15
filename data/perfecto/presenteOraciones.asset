@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: presenteOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: I have talked to the doctor.
+    cantidadPalabras: 6
+  - answer: You have played videogames.
+    cantidadPalabras: 4
+  - answer: The baby has woken up.
+    cantidadPalabras: 5
+  - answer: It has rained a lot this week?
+    cantidadPalabras: 7
+  - answer: I have visited Paris several times.
+    cantidadPalabras: 6
+  - answer: She has not finished her homework.
+    cantidadPalabras: 6
+  - answer: Have you ever been to New York?
+    cantidadPalabras: 7
+  - answer: I have lived in this city for five years.
+    cantidadPalabras: 9

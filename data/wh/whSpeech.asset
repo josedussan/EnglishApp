@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: whSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Who is she?
+    questionImage: {fileID: 2145566126, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: who is she?
+    answeralternative1: who is he?
+    answeralternative2: who is she
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: What do you want today?
+    questionImage: {fileID: -1313208611, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: what do you want today?
+    answeralternative1: what do you want today
+    answeralternative2: what do you want to date
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: When is your birthday?
+    questionImage: {fileID: -751887350, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: when is your birthday
+    answeralternative1: when is your birthday?
+    answeralternative2: when is your birthday
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Why are you learning English?
+    questionImage: {fileID: -1497438292, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: why are you learning english
+    answeralternative1: why are you learning english?
+    answeralternative2: why are you learning english
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Where can I buy a ticket?
+    questionImage: {fileID: -831389979, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: where can i buy a ticket
+    answeralternative1: where can i buy a ticket?
+    answeralternative2: where can i buy a ticket
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Wich is your favorite toy?
+    questionImage: {fileID: 145484100, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: which is your favorite toy
+    answeralternative1: which is your favorite toy?
+    answeralternative2: wish is your favorite toy
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: How are you?
+    questionImage: {fileID: -1867926604, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: how are you
+    answeralternative1: how are you?
+    answeralternative2: how are you
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Who is with you?
+    questionImage: {fileID: 1570939034, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: who is with you?
+    answeralternative1: who is with you
+    answeralternative2: who is with you?
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: What did you cook today?
+    questionImage: {fileID: -456286246, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: what did you cook today?
+    answeralternative1: what did you cook today
+    answeralternative2: whay did you cook today
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: When will he leave.
+    questionImage: {fileID: -1888027712, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: when will he leave?
+    answeralternative1: when will he leave?
+    answeralternative2: when will he live
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Why did you study biology?
+    questionImage: {fileID: 1289091155, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: why did you study biology?
+    answeralternative1: why did you study biology
+    answeralternative2: why do you study biology?
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Where is the car?
+    questionImage: {fileID: 1439854432, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: where is the car?
+    answeralternative1: where is the car
+    answeralternative2: where is the card
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Which car do you prefer?
+    questionImage: {fileID: -1512337271, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: which car do you prefer
+    answeralternative1: which car do you prefer?
+    answeralternative2: which card do you prefer
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: How far is the park?
+    questionImage: {fileID: 0}
+    answer: how far is the park
+    answeralternative1: how far is the park?
+    answeralternative2: haw far is the park
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Why is he doing that?
+    questionImage: {fileID: 29953177, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: why is he doing that?
+    answeralternative1: why is he doing that
+    answeralternative2: why is she doing that
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Where was the party?
+    questionImage: {fileID: 1488886583, guid: 321d8ad408b27e34080d91db0d7557aa, type: 3}
+    answer: where was the party?
+    answeralternative1: where was the party
+    answeralternative2: where was the party?

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: pasadoOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: Last year, I was studying for the exams.
+    cantidadPalabras: 8
+  - answer: The sun was shining.
+    cantidadPalabras: 4
+  - answer: The phone was ringing.
+    cantidadPalabras: 4
+  - answer: It was raining, so i decided to stay home.
+    cantidadPalabras: 9
+  - answer: Ann was painting in her art class
+    cantidadPalabras: 7
+  - answer: She was not studying at that time.
+    cantidadPalabras: 7
+  - answer: Were you working late last night?
+    cantidadPalabras: 6
+  - answer: While she was cooking, he was cleaning the house.
+    cantidadPalabras: 9

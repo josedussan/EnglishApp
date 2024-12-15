@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: 2960e7571a2fa004c8e8bc7dba29faee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ordinales_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64810f47cb6d51642a5a3c05f0eccf56
+      internalID: 1449297415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696bc7782c2ee84c9d15d37a1819601
+      internalID: 1449347687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f441d502b72f842b2b05789eb91c9b
+      internalID: 59901424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1de6e54c178604f93f015e879f90de
+      internalID: 1905137419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51eac419f5260848b373cea01bc663f
+      internalID: -452350200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a57c1559a18149879e8452fa2b445
+      internalID: -670683941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c67fe0b3ab1a34cb471479c169799c
+      internalID: -688841947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 801.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bdb873bbfa3bd4f807f829662cc4aa
+      internalID: 1092633851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5bb20edc98aa45b3eb8da0e629dd6
+      internalID: 488919408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee41f7cc38faef4886f5d5baec6959e
+      internalID: -1050804521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855bd1001c864e04881d792465c160da
+      internalID: -292415649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec297f4fb0440141ae71fe3a2cbb7df
+      internalID: 723209411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f345b2b2e7c54a8af4dfec6944e49
+      internalID: -586036264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91282d7ae67be1d428a57f23084541bb
+      internalID: 1701172937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ea4cd4bdcf6141914e7743500f592
+      internalID: -58441252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 601.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3226e2dee8b5c264b9eef6cebeac80c0
+      internalID: -515594819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48520d5954e7cb4aa57c5a71f837bef
+      internalID: 1279627934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7178bb3bc8464f93ba56fc7ee54e2
+      internalID: -1716287959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165464829868f446972d0be08deaa05
+      internalID: -1809407562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d05cc88089ddd548b7b90536bcbdaa7
+      internalID: -1405327621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4cd119b2478c4e8d9f022eeaccb8b
+      internalID: -656114667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301709678d5a89846a35e614b2965976
+      internalID: -285344774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ac90c92c21314d99e0d12a6051bab
+      internalID: -1468351404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 401.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ad6375cfb682e4eb7e3d163f13d970
+      internalID: -1480119073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3b977d7907f24599e3b1cfee149ea
+      internalID: 1601471710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6f646f9b579545952caccd4014ab7
+      internalID: -1428208306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f117edc27ac46b4586b1b2edbc2f011
+      internalID: -2037398615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f19f2f59136844f8bb481f77e4f3f8
+      internalID: -425327883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb6c3ac90a0f7d45a5652c2838f79f0
+      internalID: -1828088210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471beb2eb33a5fc419e901ffbbfed2fc
+      internalID: -1972292639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43301b9c71e54343850c5d8d12a89ce
+      internalID: -2089383300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_31
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 201.6
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ebb4bc6d97e1478a8bdf407140d57
+      internalID: 1437148417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc596aaeefa023418126efc4b43addb
+      internalID: -1341598880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4f2adcc1ed56439ae9c90e2b25168
+      internalID: -313849959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab077ece5961b45b532229cdc218fe
+      internalID: 345031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47a2cbeaae9704b895c06b7ecc661a
+      internalID: -1164350059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce4f985b7359954da381c9ddfe6deb5
+      internalID: 934506342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14257cf2f22d9494b924378f2fa42bfa
+      internalID: 1353141791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ordinales_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1.6000061
+        width: 200
+        height: 200.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab529ed812e7340850e01847cf2ce2
+      internalID: 862439023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ordinales_0: 1449297415
+      ordinales_1: 1449347687
+      ordinales_10: -292415649
+      ordinales_11: 723209411
+      ordinales_12: -586036264
+      ordinales_13: 1701172937
+      ordinales_14: -58441252
+      ordinales_15: -515594819
+      ordinales_16: 1279627934
+      ordinales_17: -1716287959
+      ordinales_18: -1809407562
+      ordinales_19: -1405327621
+      ordinales_2: 59901424
+      ordinales_20: -656114667
+      ordinales_21: -285344774
+      ordinales_22: -1468351404
+      ordinales_23: -1480119073
+      ordinales_24: 1601471710
+      ordinales_25: -1428208306
+      ordinales_26: -2037398615
+      ordinales_27: -425327883
+      ordinales_28: -1828088210
+      ordinales_29: -1972292639
+      ordinales_3: 1905137419
+      ordinales_30: -2089383300
+      ordinales_31: 1437148417
+      ordinales_32: -1341598880
+      ordinales_33: -313849959
+      ordinales_34: 345031010
+      ordinales_35: -1164350059
+      ordinales_36: 934506342
+      ordinales_37: 1353141791
+      ordinales_38: 862439023
+      ordinales_4: -452350200
+      ordinales_5: -670683941
+      ordinales_6: -688841947
+      ordinales_7: 1092633851
+      ordinales_8: 488919408
+      ordinales_9: -1050804521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

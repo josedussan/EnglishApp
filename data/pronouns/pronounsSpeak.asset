@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: pronounsSpeak
+  m_EditorClassIdentifier: 
+  questions:
+  - title: pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 613739938, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: it
+    answeralternative1: eat
+    answeralternative2: eight
+  - title: pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 296568518, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: they
+    answeralternative1: day
+    answeralternative2: bay
+  - title: pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -390242714, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: we
+    answeralternative1: wii
+    answeralternative2: queen
+  - title: Pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1336127524, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: i
+    answeralternative1: eye
+    answeralternative2: hi
+  - title: pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1748846578, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: she
+    answeralternative1: see
+    answeralternative2: sheen
+  - title: pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1269820040, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: you
+    answeralternative1: eu
+    answeralternative2: you you
+  - title: pronounce this pronoun
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 541374689, guid: a3063e085727eab4f97bf5aa42363303, type: 3}
+    answer: he
+    answeralternative1: key
+    answeralternative2: pee

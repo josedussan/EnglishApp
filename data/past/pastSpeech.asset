@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: pastSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Mike drank all the juice.
+    questionImage: {fileID: -1366805917, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: Mike drank all the juice
+    answeralternative1: mike drink all the juice
+    answeralternative2: mike drake all the juice
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He did not close the box.
+    questionImage: {fileID: 1271283664, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: He did not close the box
+    answeralternative1: she did not close the box
+    answeralternative2: she did not close the bus
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Did she arrive on time?
+    questionImage: {fileID: -744686707, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: did she arrive on time
+    answeralternative1: did she arrived on time
+    answeralternative2: digi arrive on time
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: We lost the keys.
+    questionImage: {fileID: 1221602251, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: we lost the keys
+    answeralternative1: we lost the case
+    answeralternative2: weight loss the case
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Alice did not brush her teeth.
+    questionImage: {fileID: 376815636, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: alice did not brush her teeth
+    answeralternative1: allie's did not brush her teeth
+    answeralternative2: ollies did not brush her teeth
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Why did she leave?
+    questionImage: {fileID: -1462460684, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: why did she leave
+    answeralternative1: why did dhe live
+    answeralternative2: why did she left
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Our team won the game.
+    questionImage: {fileID: -772215114, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: our team won the game
+    answeralternative1: our team won that game
+    answeralternative2: our thing won that game
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Did they watched that movie?
+    questionImage: {fileID: -1146784206, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: did they watched that movie
+    answeralternative1: did they watch that movie
+    answeralternative2: did they watched that movie
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She gave me her love.
+    questionImage: {fileID: 663148006, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: she gave me her love
+    answeralternative1: she game me her loved
+    answeralternative2: she gave me her love
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They did not lose the keys.
+    questionImage: {fileID: 1821218849, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: they did not lose the keys
+    answeralternative1: they did not lose the kids
+    answeralternative2: they did not lose the kiss
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Did he close the door?
+    questionImage: {fileID: 1437789971, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: did he close the door
+    answeralternative1: did she close the door
+    answeralternative2: did he close that door
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The dog walked in the park.
+    questionImage: {fileID: -1495803703, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: the dog walked in the park
+    answeralternative1: the dog walk in the park
+    answeralternative2: the dog will walk in the park
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Mike did not drink the juice.
+    questionImage: {fileID: -1273708491, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: mike did not drink the juice
+    answeralternative1: mike dick not drink the juice
+    answeralternative2: mike did not drink the juice
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Did Our team win the game?
+    questionImage: {fileID: -1150967916, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: did our team win the game
+    answeralternative1: did our thing win the game
+    answeralternative2: these are team win the game
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Why did he buy a new TV?
+    questionImage: {fileID: -1679136671, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: why did he buy a new tv
+    answeralternative1: white did he buy a new tv
+    answeralternative2: why i did he buy a new tv
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They went to the park.
+    questionImage: {fileID: 575119911, guid: 3c0c70de72ec84141a17303455469be2, type: 3}
+    answer: they went to the park
+    answeralternative1: they went to the bar
+    answeralternative2: they went to the park

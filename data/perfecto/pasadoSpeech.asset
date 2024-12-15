@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: pasadoSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: We had never traveled to Greece.
+    questionImage: {fileID: -1489518856, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: we had never traveled to greece
+    answeralternative1: we have never traveled to greece
+    answeralternative2: we had never travel to greece
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Had you heard the news?
+    questionImage: {fileID: 238374609, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: had you heard the news
+    answeralternative1: have you heard the news
+    answeralternative2: hot you heard the news
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Ben had gone to bed at 10 p.m.
+    questionImage: {fileID: 969262089, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: ben had gone to bed at ten p.m.
+    answeralternative1: ben had gone to bed at 10:00 p.m.
+    answeralternative2: ben have gone to bed at 10:00 p.m.
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Who had he talked about it?
+    questionImage: {fileID: 2138456161, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: who had he talked about it
+    answeralternative1: who had hit talk about it
+    answeralternative2: who had he talks about it
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Had you ever seen such a beatiful sunset?
+    questionImage: {fileID: -2114653685, guid: 9e58b19586c9c594ab9a33f5ba031cb3, type: 3}
+    answer: had you ever seen such a beautiful sunset
+    answeralternative1: have you ever seen such a beautiful sunset
+    answeralternative2: had you ever seen such a beautiful sunset

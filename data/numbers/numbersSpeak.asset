@@ -1,0 +1,330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: numbersSpeak
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 273256343, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: zero
+    answeralternative1: 0
+    answeralternative2: hero
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 822931440, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: five
+    answeralternative1: 5
+    answeralternative2: five
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1532768170, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twelve
+    answeralternative1: 12
+    answeralternative2: twelve
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 804167598, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: two
+    answeralternative1: 2
+    answeralternative2: too
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1788556690, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: seven
+    answeralternative1: 7
+    answeralternative2: seven
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1246793326, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: one hundred
+    answeralternative1: 100
+    answeralternative2: long hundred
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -393502065, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: eighteen
+    answeralternative1: 18
+    answeralternative2: a teen
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1200746722, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: six
+    answeralternative1: 6
+    answeralternative2: six
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 2122493273, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: fourteen
+    answeralternative1: 14
+    answeralternative2: fart in
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 197653393, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: three
+    answeralternative1: 3
+    answeralternative2: free
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 2085451235, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: seventeen
+    answeralternative1: 17
+    answeralternative2: the seventeen
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1035449589, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: for
+    answeralternative1: 4
+    answeralternative2: far
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1034272061, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty
+    answeralternative1: 20
+    answeralternative2: tiny
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 319384511, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: ten
+    answeralternative1: 10
+    answeralternative2: pain
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -382892662, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: eighty six
+    answeralternative1: 86
+    answeralternative2: 80 6
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -423493216, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty one
+    answeralternative1: 21
+    answeralternative2: 20 1
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 988670660, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: nine
+    answeralternative1: 9
+    answeralternative2: mine
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -106878604, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty two
+    answeralternative1: 22
+    answeralternative2: 20 2
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1052305574, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: eight
+    answeralternative1: 8
+    answeralternative2: ate
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 400063549, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty four
+    answeralternative1: 24
+    answeralternative2: 20 4
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 566307575, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: one
+    answeralternative1: 1
+    answeralternative2: when
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1320982425, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty five
+    answeralternative1: 25
+    answeralternative2: 20 5
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -154677742, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: thirteen
+    answeralternative1: 13
+    answeralternative2: certain
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1082587074, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: eleven
+    answeralternative1: 11
+    answeralternative2: you live in
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -371613194, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: sixteen
+    answeralternative1: 16
+    answeralternative2: sixteen
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 583283753, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: fifteen
+    answeralternative1: 15
+    answeralternative2: fifteen
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1845540453, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: seventy
+    answeralternative1: 70
+    answeralternative2: kevin tea
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1573555455, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: nineteen
+    answeralternative1: 19
+    answeralternative2: nineteen
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1617621581, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty three
+    answeralternative1: 23
+    answeralternative2: 20 3
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1488754457, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty six
+    answeralternative1: 26
+    answeralternative2: 20 6
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1689046809, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: sixty two
+    answeralternative1: 62
+    answeralternative2: 60 2
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1150113714, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: ninety eight
+    answeralternative1: 98
+    answeralternative2: 90 8
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -366401327, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty seven
+    answeralternative1: 27
+    answeralternative2: 20 7
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1945982459, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: ninety
+    answeralternative1: 90
+    answeralternative2: ninety
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -829227218, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty eight
+    answeralternative1: 28
+    answeralternative2: 20 8
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1691701637, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: eighty
+    answeralternative1: 80
+    answeralternative2: haiti
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -878014605, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: twenty nine
+    answeralternative1: 29
+    answeralternative2: 20 9
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1279654472, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: thirty
+    answeralternative1: 30
+    answeralternative2: xxx
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1265730244, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: seventy three
+    answeralternative1: 73
+    answeralternative2: 70 3
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 856040752, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: thirty one
+    answeralternative1: 31
+    answeralternative2: 30 1
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 717536603, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: fourty
+    answeralternative1: 40
+    answeralternative2: funny
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1058652968, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: fourty seven
+    answeralternative1: 47
+    answeralternative2: 40 7
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1321082099, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: fifty
+    answeralternative1: 50
+    answeralternative2: fifty
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1158276953, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: fifty five
+    answeralternative1: 55
+    answeralternative2: 50 5
+  - title: Pronounce this number
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -2021856673, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: sixty
+    answeralternative1: 60
+    answeralternative2: sixty

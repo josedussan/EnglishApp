@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: pasadoOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: The police had searched high and low.
+    cantidadPalabras: 7
+  - answer: I had not been surfing before.
+    cantidadPalabras: 6
+  - answer: Had you been bungee jumping?
+    cantidadPalabras: 5
+  - answer: We had never traveled to Greece.
+    cantidadPalabras: 6
+  - answer: She had not heard the news.
+    cantidadPalabras: 6
+  - answer: Had you ever seen such a beautiful sunset?
+    cantidadPalabras: 8
+  - answer: When I arrived at the party.
+    cantidadPalabras: 6
+  - answer: By the time we arrived, they had already left.
+    cantidadPalabras: 9

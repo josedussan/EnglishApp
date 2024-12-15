@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: QuestionsDataSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -268458009, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: water
+    answeralternative1: quarter
+    answeralternative2: weather
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1533506066, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: yes
+    answeralternative1: PS
+    answeralternative2: yes
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 178111527, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: horse
+    answeralternative1: horse
+    answeralternative2: hearts
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 813077065, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: pratt
+    answeralternative1: rat
+    answeralternative2: red
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1481562834, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: sing
+    answeralternative1: thing
+    answeralternative2: saying
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1879128455, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: nest
+    answeralternative1: next
+    answeralternative2: nursed
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1227368250, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: mom
+    answeralternative1: mom
+    answeralternative2: mom
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -917936133, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: lamp
+    answeralternative1: a lamp
+    answeralternative2: limp
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1008175617, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: measure
+    answeralternative1: metro
+    answeralternative2: mushroom
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -669371983, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: june
+    answeralternative1: joan
+    answeralternative2: jim
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1568852344, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: chicken
+    answeralternative1: chicken
+    answeralternative2: chicken
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1541148149, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: there
+    answeralternative1: their
+    answeralternative2: dare
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -2142435275, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: thing
+    answeralternative1: theme
+    answeralternative2: sing
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -2010666479, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: zoo
+    answeralternative1: two
+    answeralternative2: sue
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -232876899, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: show
+    answeralternative1: show
+    answeralternative2: so
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 722246200, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: son
+    answeralternative1: song
+    answeralternative2: sun
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 667270294, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: vase
+    answeralternative1: bass
+    answeralternative2: base
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 843769741, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: thoughts
+    answeralternative1: fox
+    answeralternative2: false
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 440931656, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: goat
+    answeralternative1: boat
+    answeralternative2: vote
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 282542769, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: dish
+    answeralternative1: this
+    answeralternative2: this dish
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1290858100, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: boat
+    answeralternative1: boats
+    answeralternative2: bolt
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: -1901607337, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: kite
+    answeralternative1: quiet
+    answeralternative2: kaid
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 1341547583, guid: c51fae84f0821674d9afffcfd5993bab, type: 3}
+    answer: power
+    answeralternative1: our
+    answeralternative2: hour
+  - title: Pronounce this word
+    tipo: 1
+    sentence: 
+    questionImage: {fileID: 319384511, guid: 567f218ca46c0624fa332ec92db97b27, type: 3}
+    answer: ten
+    answeralternative1: 10
+    answeralternative2: then

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e61d778f879d7074f946b1ee449fe293, type: 3}
+  m_Name: writepast
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 498076762, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: began
+  - questionImage: {fileID: 84105066, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: drank
+  - questionImage: {fileID: 329917665, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: watched
+  - questionImage: {fileID: -981859, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: lost
+  - questionImage: {fileID: 1086539982, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: left
+  - questionImage: {fileID: 1046296317, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: arrived
+  - questionImage: {fileID: -1157504342, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: went
+  - questionImage: {fileID: 716244648, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: walked
+  - questionImage: {fileID: -2062032797, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: worried
+  - questionImage: {fileID: -1522056549, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: said
+  - questionImage: {fileID: -1974621847, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: tried
+  - questionImage: {fileID: -1851829469, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: loved
+  - questionImage: {fileID: 938414078, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: stopped
+  - questionImage: {fileID: -1335353106, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: ate
+  - questionImage: {fileID: -1907193027, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: made
+  - questionImage: {fileID: -148995255, guid: 21c0889b26d5221409bbcd2a342f15b0, type: 3}
+    answer: played

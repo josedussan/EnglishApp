@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: pasadoSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Last year, I was studying for the exams.
+    questionImage: {fileID: -483727715, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: last year i was studying for the exams
+    answeralternative1: last year i was starting for the exams
+    answeralternative2: last year i was starting for the exam
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The sun was shining.
+    questionImage: {fileID: 2053902459, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: the song was shining
+    answeralternative1: the sun was shining
+    answeralternative2: the song was shinning
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She was only trying to help us.
+    questionImage: {fileID: -1410117279, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: she was only trying to help us
+    answeralternative1: she was only trying to hold us
+    answeralternative2: she was only trying to help pass
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: The phone was ringing.
+    questionImage: {fileID: 81254928, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: the phone was ringing
+    answeralternative1: the phone was bringing
+    answeralternative2: the phone was screaming
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Mike was watching a series.
+    questionImage: {fileID: 1148937960, guid: 0d8511721ca6ead459ebbb05e28585b6, type: 3}
+    answer: mike was watching a series
+    answeralternative1: mike was watching a serious
+    answeralternative2: mike was watching a sirius

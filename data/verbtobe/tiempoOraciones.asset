@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7546772ac4d717a4085b6ac9dfd87d34, type: 3}
+  m_Name: tiempoOraciones
+  m_EditorClassIdentifier: 
+  questions:
+  - answer: You are my best friend.
+    cantidadPalabras: 5
+  - answer: I was a good student.
+    cantidadPalabras: 5
+  - answer: We will be family.
+    cantidadPalabras: 4
+  - answer: She is a nurse.
+    cantidadPalabras: 4
+  - answer: It was important to me.
+    cantidadPalabras: 5
+  - answer: They will be my brothers.
+    cantidadPalabras: 5
+  - answer: He is your new teacher.
+    cantidadPalabras: 5
+  - answer: You were very smart.
+    cantidadPalabras: 4
+  - answer: London is a large city.
+    cantidadPalabras: 5
+  - answer: My hands were really cold!
+    cantidadPalabras: 5
+  - answer: They were very happy.
+    cantidadPalabras: 4
+  - answer: We were at home on sunday.
+    cantidadPalabras: 6
+  - answer: I was here.
+    cantidadPalabras: 3
+  - answer: She will be a lawyer.
+    cantidadPalabras: 5
+  - answer: Next week will be June.
+    cantidadPalabras: 5

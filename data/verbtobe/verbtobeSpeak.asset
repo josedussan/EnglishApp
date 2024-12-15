@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560727cd2496c7a4a9edfcbcee5145c5, type: 3}
+  m_Name: verbtobeSpeak
+  m_EditorClassIdentifier: 
+  questions:
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I am at home.
+    questionImage: {fileID: 1351851075, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: i am at home
+    answeralternative1: i am up home
+    answeralternative2: i am home
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Are you ready?
+    questionImage: {fileID: -1851025550, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: are you ready
+    answeralternative1: are you alredady
+    answeralternative2: are you ready
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He is not.
+    questionImage: {fileID: 1652644058, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: he is not
+    answeralternative1: he's not
+    answeralternative2: he not
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: It is not a car.
+    questionImage: {fileID: 609758067, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: it is not a car
+    answeralternative1: it is not a card
+    answeralternative2: it is not a god
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Are they hungry?
+    questionImage: {fileID: 537075228, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: are they hungry
+    answeralternative1: are they hungry?
+    answeralternative2: are they hungry
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She is not funny.
+    questionImage: {fileID: -234357268, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: she is not funny
+    answeralternative1: she's not funny
+    answeralternative2: she is not funny
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: We are never late.
+    questionImage: {fileID: -1535565728, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: we are never late
+    answeralternative1: we are never late
+    answeralternative2: we are never late
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: It is cold.
+    questionImage: {fileID: -325837461, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: it is cold
+    answeralternative1: it is called
+    answeralternative2: it is gold
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: You are.
+    questionImage: {fileID: 1180859949, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: you are
+    answeralternative1: you're
+    answeralternative2: you are
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He is a Doctor.
+    questionImage: {fileID: 1843558725, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: he is a doctor
+    answeralternative1: he is a laptop
+    answeralternative2: he's a doctor
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: I am.
+    questionImage: {fileID: -163207109, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: i am
+    answeralternative1: im
+    answeralternative2: iam
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: They are not.
+    questionImage: {fileID: 906532777, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: they are not
+    answeralternative1: they're not
+    answeralternative2: they are not
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: She is not.
+    questionImage: {fileID: -1103684931, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: she's not
+    answeralternative1: she is not
+    answeralternative2: she is not
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: Are you friends?
+    questionImage: {fileID: -1007497653, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: are you friends
+    answeralternative1: are your friends
+    answeralternative2: are you friends
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: He is not married.
+    questionImage: {fileID: -281701328, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: he is not married
+    answeralternative1: key is not married
+    answeralternative2: she is not married
+  - title: Pronounce this sentence
+    tipo: 0
+    sentence: My dog is big.
+    questionImage: {fileID: -1369153793, guid: 1d1518d5b84266b449412d58b9790395, type: 3}
+    answer: my dog is big
+    answeralternative1: my dog is big
+    answeralternative2: my dog is big
